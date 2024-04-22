@@ -1,4 +1,5 @@
 # Krunker.IO Aimbot & ESP
+Use a User Script Manager to run this. I recommend [Tampermonkey](https://tampermonkey.net)
 
 ## What's Aimbot:
 
