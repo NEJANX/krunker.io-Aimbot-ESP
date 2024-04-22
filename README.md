@@ -6,7 +6,7 @@ Locks the aim to the nearest player. Doesn't check if the player is behind the w
 
 ## What's ESP?
 
-Shows players behind walls. Also shows a line between you and them. Good for keeping track of players who are behind you.
+ESP - Extra Sensory Perception, Shows players behind walls. Also shows a line between you and them. Good for keeping track of players who are behind you.
 
 ## Keyboard Shortcuts:
 
