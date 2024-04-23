@@ -1,6 +1,6 @@
     // ==UserScript==
     // @name         Krunker.IO Aimbot & ESP
-    // @namespace    http://tampermonkey.net/
+    // @namespace    https://nejan.serendibytes.com
     // @version      1.0.0
     // @description  Locks aim to the nearest player in krunker.io and shows players behind walls. Also shows a line between you and them.
     // @author       NEJAN
